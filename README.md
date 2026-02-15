@@ -26,4 +26,4 @@ Please forgive me for the bad code quality. I was a real rookie back then
 
 
 ## Requirements
-- Python
+- Modern Python
